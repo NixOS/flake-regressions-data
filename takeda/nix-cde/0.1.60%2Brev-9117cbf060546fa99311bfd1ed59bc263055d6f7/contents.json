@@ -1,0 +1,1 @@
+{"docs":{"overlays":"The `overlays` flake output defines \"overlays\" that can be plugged into Nixpkgs.\nOverlays add additional packages or modify or replace existing packages.\n"},"inventory":{"overlays":{"children":{"default":{"derivation":null,"forSystems":null,"outputs":null,"shortDescription":null,"what":"Nixpkgs overlay"}}}},"version":1}

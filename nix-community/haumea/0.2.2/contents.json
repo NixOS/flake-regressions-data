@@ -1,0 +1,1 @@
+{"docs":{"checks":"The `checks` flake output contains derivations that will be built by `nix flake check`.\n"},"inventory":{"checks":{"children":{}}},"version":1}
