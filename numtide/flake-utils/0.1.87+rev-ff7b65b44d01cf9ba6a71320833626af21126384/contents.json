@@ -1,1 +1,1 @@
-{"docs":{},"inventory":{},"version":1}
+{"inventory":{"lib":{"unknown":true},"templates":{"doc":"The `templates` output provides project templates.\n","output":{"children":{"check-utils":{"shortDescription":"A flake with tests","what":"template"},"default":{"shortDescription":"A flake using flake-utils.lib.eachDefaultSystem","what":"template"},"each-system":{"shortDescription":"A flake using flake-utils.lib.eachDefaultSystem","what":"template"},"simple-flake":{"shortDescription":"A flake using flake-utils.lib.simpleFlake","what":"template"}}}}},"version":2}

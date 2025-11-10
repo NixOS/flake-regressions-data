@@ -1,1 +1,1 @@
-{"docs":{},"inventory":{},"version":1}
+{"inventory":{"lib":{"unknown":true},"templates":{"doc":"The `templates` output provides project templates.\n","output":{"children":{"default":{"shortDescription":"Install Nix packages from asdf versions file","what":"template"},"devenv":{"shortDescription":"Integration with devenv","what":"template"}}}}},"version":2}

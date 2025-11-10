@@ -1,1 +1,1 @@
-{"docs":{},"inventory":{},"version":1}
+{"inventory":{"darwinModules":{"doc":"The `darwinModules` flake output defines importable [nix-darwin modules](https://github.com/LnL7/nix-darwin).\n","output":{"children":{"default":{"what":"nix-darwin module"},"slave":{"what":"nix-darwin module"}}}},"nixosModules":{"doc":"The `nixosModules` flake output defines importable [NixOS modules](https://nixos.org/manual/nixos/stable/#sec-writing-modules).\n","output":{"children":{"common":{"what":"NixOS module"},"default":{"what":"NixOS module"}}}},"overlay":{"unknown":true}},"version":2}

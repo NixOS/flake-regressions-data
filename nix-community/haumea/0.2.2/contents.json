@@ -1,1 +1,1 @@
-{"docs":{"checks":"The `checks` flake output contains derivations that will be built by `nix flake check`.\n"},"inventory":{"checks":{"children":{}}},"version":1}
+{"inventory":{"checks":{"doc":"The `checks` flake output contains derivations that will be built by `nix flake check`.\n","output":{"children":{}}},"lib":{"unknown":true},"templates":{"doc":"The `templates` output provides project templates.\n","output":{"children":{"default":{"shortDescription":"A Nix library","what":"template"}}}}},"version":2}
