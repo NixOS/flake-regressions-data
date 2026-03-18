@@ -1,1 +1,1 @@
-{"inventory":{"defaultApp":{"unknown":true}},"version":2}
+{"inventory":{"defaultApp":{"doc":"**DEPRECATED**. Use `apps.<system>.default` instead.\n","output":{"children":{"x86_64-linux":{"forSystems":["x86_64-linux"],"shortDescription":"","what":"app"}}}}},"version":2}
